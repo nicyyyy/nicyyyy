@@ -1,6 +1,6 @@
 <!--Header Name-->
 # <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> ɪ'ᴍ Qingyao Yang! 
-*Digital Craftsman (Developer / Programmer)*
+
 <br /> 
 
 <!--Start Intro-->               
@@ -14,15 +14,15 @@
 
 <table align="center" width="100%" height="100%" >
     <tr>
-        <td><img style="border: none;" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=nicyyyy&theme=github_dark" alt="Zane's GitHub Stats"/></td>
-        <td><img style="border: none;" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=nicyyyy&theme=github_dark&utcOffset=10" alt="Zane's GitHub Stats"/>
+        <td><img style="border: none;" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=nicyyyy&theme=graywhite" alt="Zane's GitHub Stats"/></td>
+        <td><img style="border: none;" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=nicyyyy&theme=graywhite&utcOffset=10" alt="Zane's GitHub Stats"/>
     </tr>
  </table>
 
  <table align="center" width="100%" height="100%" >
     <tr>
-         <td><img style="border: none;" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=nicyyyy&theme=github_dark" alt="Zane's GitHub Stats"/></td>
-        <td><img style="border: none;" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=nicyyyy&theme=github_dark" alt="Zane's GitHub Stats"/></td>
+         <td><img style="border: none;" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=nicyyyy&theme=graywhite" alt="Zane's GitHub Stats"/></td>
+        <td><img style="border: none;" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=nicyyyy&theme=graywhite" alt="Zane's GitHub Stats"/></td>
     </tr>
  </table>
 
