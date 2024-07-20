@@ -12,6 +12,7 @@
 <!--End Intro-->
 
 
+<h2 align="center">📊 Gɪᴛʜᴜʙ Sᴛᴀᴛs 📊</h2>
 <table align="center" width="100%" height="100%" >
     <tr>
         <td><img style="border: none;" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=nicyyyy&theme=graywhite" alt="Zane's GitHub Stats"/></td>
@@ -25,6 +26,26 @@
         <td><img style="border: none;" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=nicyyyy&theme=graywhite" alt="Zane's GitHub Stats"/></td>
     </tr>
  </table>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 <!---
 # Publications
