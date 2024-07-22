@@ -8,7 +8,7 @@
 
 - ✨ Hoping for 2025 fall Phd.
 - 🌱 My research fucos on deep learning, AI accelerator, and hardware-software co-design.
-- 💻 Visit my [Homepage](https://kiran1689.github.io) and [Google scholar](https://scholar.google.com/citations?user=eUAofcwAAAAJ&hl=zh-CN) for more details about me.
+- 💻 Visit my [Homepage](https://nicyyyy.github.io/) and [Google scholar](https://scholar.google.com/citations?user=eUAofcwAAAAJ&hl=zh-CN) for more details about me.
 <!--End Intro-->
 
 
